@@ -1,4 +1,4 @@
-
+/**  https://github.com/Dibakor20/javascript-assignment1.git */
 
 // kilometerToMeter
 
@@ -11,8 +11,7 @@ function kilometerToMeter(kilo){
         return meter;
     } 
 }
-var result = kilometerToMeter(5);
-console.log(result);
+
 
 // budgetCalculator
 
@@ -35,8 +34,7 @@ function budgetCalculator(watch,phone,laptop){
     }
       
     }
-    var result = budgetCalculator(2,2,2);
-    console.log(result)
+   
 
 // hotelCost
 
@@ -64,8 +62,7 @@ else{
 return cost;
 
 }
-var result = hotelCost(15);
-console.log(result)
+
 
 // megaFriend
 
@@ -80,5 +77,4 @@ function megaFriend(arr){
         }
         return long;
     } 
-    var longName = megaFriend(friend);
-    console.log(longName);
+  
